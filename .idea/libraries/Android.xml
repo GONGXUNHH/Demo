@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/chapter-1-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/chapter-6-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/chapter-3-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/chapter-4-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/chapter-5-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/chapter-2-p-wangyuwei.jeason-demo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
